@@ -41,7 +41,7 @@ Interactive car sales analytics dashboard built using SQL and Microsoft Power BI
 
 > Add a screenshot of the dashboard here after uploading it to the repository.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard_carsale.png)
 
 ## Files
 - Car Sales Dashboard.pbix
